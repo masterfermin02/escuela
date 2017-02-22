@@ -1,4 +1,4 @@
-escuela
+This is a school manager system
 =======
 
-Este es un repositorio donde voy a guardad el proyecto escuela.
+this apps allow to manage the stundets and there family and alsome you be able to controls the payments by month
