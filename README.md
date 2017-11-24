@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/masterfermin02/escuela.svg?branch=master)](https://travis-ci.org/masterfermin02/escuela)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.txt)
+
 This is a school manager system
 =======
 
